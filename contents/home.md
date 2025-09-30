@@ -1,6 +1,6 @@
 [![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/QUNING1)
 
-👋 Hi there! I’m currently a second-year Master's student in the School of Telecommunications at Xi'an Jiaotong University, majoring in Computer Science and Technology. I'm fortunate to be advised by Professor Jun Liu.
+👋 Hi there! I’m currently a third-year (final-year) Master's student in the School of Telecommunications at Xi'an Jiaotong University, majoring in Computer Science and Technology. I'm fortunate to be advised by Professor Jun Liu.
 
 #### Email  
 <code>stillqu@stu.xjtu.edu.cn</code>  
