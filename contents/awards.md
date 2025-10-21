@@ -1,2 +1,3 @@
-- 校级一等奖学金, 2020.  
-- 研究生学业奖学金, 2023, 2024.
+- Outstanding Graduate Student, 2025
+- Graduate Academic Scholarship, 2023, 2024
+- First-Class University Scholarship, 2020
